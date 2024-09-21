@@ -1,0 +1,29 @@
+{
+    "name": "clone-dir",
+    "version": "0.0.1",
+    "description": "Clone a subdirectory from a GitHub repository",
+    "main": "index.js",
+    "bin": {
+        "clone-dir": "./index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "git",
+        "clone",
+        "subdirectory",
+        "github"
+    ],
+    "author": "Cem Turan <cem2ran@gmail.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cem2ran/clone-dir.git"
+    },
+    "bugs": {
+        "url": "https://github.com/cem2ran/clone-dir/issues"
+    },
+    "homepage": "https://github.com/cem2ran/clone-dir#readme",
+    "dependencies": {}
+}
